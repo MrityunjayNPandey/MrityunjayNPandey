@@ -6,12 +6,26 @@
 <br />
 <br />
 
-Hi, I'm Mrityunjay, a passionate self-taught Competetive Programmer and a Full-Stack developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I am an adaptable and responsible student seeking to utilize my exceptional prowess in various fields of Computer Science and Engineering.
+Welcome to my GitHub profile! I'm Mrityunjay, a self-taught software developer with a deep passion for competitive programming and full-stack development. I have a knack for turning ideas into reality through elegant interfaces and efficient code.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/mrXQbQaV1H6fQT2XHc/giphy.gif" width="450" height="330" />
 
-While pursuing my degree, I have been able to successfully combine my studies with work and other commitments <br /> showing myself to be self-motivated, organized and capable <br /> of working under pressure. In short, I am reliable, trustworthy, hardworking and eager to learn.
+<h2>Key Highlights:</h2>
 
+<ul>
+    <li><strong>Competitive Programming:</strong> I have honed my problem-solving skills through competitive programming, continuously challenging myself to solve complex algorithmic puzzles and improve my efficiency.</li>
+    <li><strong>Full-Stack Development:</strong> With a comprehensive understanding of both front-end and back-end development, I excel in building robust and user-friendly web applications.</li>
+    <li><strong>Adaptability and Responsibility:</strong> As an adaptable and responsible student, I thrive in dynamic environments and take ownership of my projects, ensuring high-quality deliverables.</li>
+</ul>
+
+<h2>Areas of Expertise:</h2>
+<ul>
+    <li><strong>Languages:</strong> I am proficient in languages such as Python, Java, JavaScript, and C++, allowing me to leverage the right tools for each project.</li>
+    <li><strong>Web Development:</strong> I specialize in creating responsive and intuitive web applications using frameworks like React.js and Node.js, combined with HTML5, CSS3, and modern JavaScript libraries.</li>
+    <li><strong>Data Structures and Algorithms:</strong> My strong grasp of data structures and algorithms enables me to design efficient solutions and optimize code performance.</li>
+    <li><strong>Problem Solving:</strong> I love tackling complex problems and applying logical thinking to devise innovative solutions.</li>
+</ul>
+  
 ### Languages and Tools:
 <div style="display: inline">
 <a href="https://graphql.org/">
