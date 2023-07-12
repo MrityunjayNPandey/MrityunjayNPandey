@@ -9,7 +9,7 @@
 
 Welcome to my GitHub profile! I'm Mrityunjay, a self-taught software developer with a deep passion for competitive programming and full-stack development. I have a knack for turning ideas into reality through elegant interfaces and efficient code.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/mrXQbQaV1H6fQT2XHc/giphy.gif" width="450" height="330" />
+<img align="right" alt="GIF" src="https://i.gifer.com/JXA0.gif" width="450" height="330" />
 
   <h2>Key Highlights:</h2>
   <ul>
