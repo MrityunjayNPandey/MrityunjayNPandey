@@ -20,8 +20,7 @@ While pursuing my degree, I have been able to successfully combine my studies wi
 <img height="35" src="https://user-images.githubusercontent.com/63851158/214012975-c44b0ed8-9d98-459c-a9e7-0a3ca8fc96f2.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
 <img height="35" src="https://icons8.com/icon/SDVmtZ6VBGXt/express-js">
-<img height="35" src="https://user-images.githubusercontent.com/63851158/214013144-fa775192-0004-49cd-bb30-31e0947e557f.png">
- </div>
+</div>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrityunjayNPandey&layout=compact&theme=gotham)
