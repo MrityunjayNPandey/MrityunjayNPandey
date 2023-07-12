@@ -1,5 +1,9 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
 
+<a href="https://www.linkedin.com/in/mrityunjaynpandey/">
+  <img align="left" alt="Mrityunjay's LinkedIN" width="35" src="https://user-images.githubusercontent.com/63851158/214014425-6161b57b-39a6-4711-859f-f90f7d439842.png" />
+</a>
+
 <br />
 <br />
 
@@ -21,15 +25,6 @@ Welcome to my GitHub profile! I'm Mrityunjay, a self-taught software developer w
     <li><strong>Data Structures and Algorithms:</strong> My strong grasp of data structures and algorithms enables me to design efficient solutions and optimize code performance, even in complex backend systems.</li>
     <li><strong>Problem Solving:</strong> I love tackling challenging problems and finding innovative solutions, particularly in the context of backend development.</li>
   </ul>
-
-  <h2>Let's Connect:</h2>
-  <p>I am always excited to collaborate on interesting projects, contribute to open-source initiatives, and share my knowledge with fellow developers. Feel free to reach out to me via email or connect with me.</p>
-</br>
-<a href="https://www.linkedin.com/in/mrityunjaynpandey/">
-  <img align="left" alt="Mrityunjay's LinkedIN" width="35" src="https://user-images.githubusercontent.com/63851158/214014425-6161b57b-39a6-4711-859f-f90f7d439842.png" />
-</a>
-</body>
-</html>
 
   
 ### Languages and Tools:
