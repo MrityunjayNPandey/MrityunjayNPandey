@@ -1,7 +1,4 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
-<a href="https://www.linkedin.com/in/mrityunjaynpandey/">
-  <img align="left" alt="Mrityunjay's LinkedIN" width="35" src="https://user-images.githubusercontent.com/63851158/214014425-6161b57b-39a6-4711-859f-f90f7d439842.png" />
-</a>
 
 <br />
 <br />
@@ -10,21 +7,28 @@ Welcome to my GitHub profile! I'm Mrityunjay, a self-taught software developer w
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/mrXQbQaV1H6fQT2XHc/giphy.gif" width="450" height="330" />
 
-<h2>Key Highlights:</h2>
-
-<ul>
+  <h2>Key Highlights:</h2>
+  <ul>
     <li><strong>Competitive Programming:</strong> I have honed my problem-solving skills through competitive programming, continuously challenging myself to solve complex algorithmic puzzles and improve my efficiency.</li>
-    <li><strong>Full-Stack Development:</strong> With a comprehensive understanding of both front-end and back-end development, I excel in building robust and user-friendly web applications.</li>
+    <li><strong>Backend Development:</strong> With a strong focus on backend development, I excel in designing and implementing scalable and efficient server-side solutions.</li>
     <li><strong>Adaptability and Responsibility:</strong> As an adaptable and responsible student, I thrive in dynamic environments and take ownership of my projects, ensuring high-quality deliverables.</li>
-</ul>
+  </ul>
 
-<h2>Areas of Expertise:</h2>
-<ul>
-    <li><strong>Languages:</strong> I am proficient in languages such as Python, Java, JavaScript, and C++, allowing me to leverage the right tools for each project.</li>
-    <li><strong>Web Development:</strong> I specialize in creating responsive and intuitive web applications using frameworks like React.js and Node.js, combined with HTML5, CSS3, and modern JavaScript libraries.</li>
-    <li><strong>Data Structures and Algorithms:</strong> My strong grasp of data structures and algorithms enables me to design efficient solutions and optimize code performance.</li>
-    <li><strong>Problem Solving:</strong> I love tackling complex problems and applying logical thinking to devise innovative solutions.</li>
-</ul>
+  <h2>Areas of Expertise:</h2>
+  <ul>
+    <li><strong>Languages:</strong> I am proficient in languages such as C++ and Javascript, allowing me to leverage the right tools for each backend project.</li>
+    <li><strong>Web Development:</strong> While I have experience with front-end technologies, my true passion lies in building robust and scalable server-side applications using frameworks like Node.js.</li>
+    <li><strong>Data Structures and Algorithms:</strong> My strong grasp of data structures and algorithms enables me to design efficient solutions and optimize code performance, even in complex backend systems.</li>
+    <li><strong>Problem Solving:</strong> I love tackling challenging problems and finding innovative solutions, particularly in the context of backend development.</li>
+  </ul>
+
+  <h2>Let's Connect:</h2>
+  <p>I am always excited to collaborate on interesting projects, contribute to open-source initiatives, and share my knowledge with fellow developers. Feel free to reach out to me via email or connect with me on <a href="https://www.linkedin.com/in/mrityunjaynpandey/">
+  <img align="left" alt="Mrityunjay's LinkedIN" width="35" src="https://user-images.githubusercontent.com/63851158/214014425-6161b57b-39a6-4711-859f-f90f7d439842.png" />
+</a>.</p>
+</body>
+</html>
+
   
 ### Languages and Tools:
 <div style="display: inline">
