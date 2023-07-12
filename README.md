@@ -9,7 +9,7 @@
 
 Welcome to my GitHub profile! I'm Mrityunjay, a self-taught software developer with a deep passion for competitive programming and full-stack development. I have a knack for turning ideas into reality through elegant interfaces and efficient code.
 
-<img align="right" alt="GIF" src="https://tenor.com/view/cat-laptop-gif-9670622" width="420" hight="420"/>
+<img align="right" alt="GIF" src="https://media.tenor.com/cctV9EvJdAoAAAAC/cat-laptop.gif" width="420" hight="420"/>
 
   <h2>Key Highlights:</h2>
   <ul>
