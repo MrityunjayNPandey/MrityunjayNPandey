@@ -4,8 +4,9 @@
 </a>
 
 <br />
+<br />
 
-Hi, I'm Mrityunjay, a passionate self-taught Full Stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I am an adaptable and responsible student seeking to utilize my exceptional prowess in various fields of Computer Science and Engineering.
+Hi, I'm Mrityunjay, a passionate self-taught Competetive Programmer and a Full-Stack developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I am an adaptable and responsible student seeking to utilize my exceptional prowess in various fields of Computer Science and Engineering.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/mrXQbQaV1H6fQT2XHc/giphy.gif" width="450" height="330" />
 
