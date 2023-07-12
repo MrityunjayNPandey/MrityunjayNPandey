@@ -14,13 +14,13 @@ While pursuing my degree, I have been able to successfully combine my studies wi
 
 ### Languages and Tools:
 <div style="display: inline">
-<img height="35" src="https://w7.pngwing.com/pngs/544/61/png-transparent-aws-amazon-web-services-brands-and-logos-icon.png">
+<img height="35" src="https://img.icons8.com/?size=512&id=33039&format=png">
 <img height="35" src="https://img.icons8.com/?size=512&id=zdI5E8moxhs-&format=png">
-<img height="35" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text.png">
-<img height="35" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business.png">
-<img height="35" src="https://user-images.githubusercontent.com/63851158/214012975-c44b0ed8-9d98-459c-a9e7-0a3ca8fc96f2.png">
-<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img height="35" src="https://icons8.com/icon/SDVmtZ6VBGXt/express-js">
+<img height="35" src="https://img.icons8.com/?size=1x&id=uJM6fQYqDaZK&format=png">
+<img height="35" src="https://img.icons8.com/?size=512&id=nn5BRPhPpKAT&format=png">
+<img height="35" src="https://img.icons8.com/?size=512&id=55199&format=png">
+<img height="35" src="https://img.icons8.com/?size=512&id=54087&format=png">
+<img height="35" src="https://img.icons8.com/?size=512&id=Vra58PN2KmI5&format=png">
 </div>
 <br>
 
