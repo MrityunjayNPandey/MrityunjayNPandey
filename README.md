@@ -23,9 +23,11 @@ Welcome to my GitHub profile! I'm Mrityunjay, a self-taught software developer w
   </ul>
 
   <h2>Let's Connect:</h2>
-  <p>I am always excited to collaborate on interesting projects, contribute to open-source initiatives, and share my knowledge with fellow developers. Feel free to reach out to me via email or connect with me on <a href="https://www.linkedin.com/in/mrityunjaynpandey/">
+  <p>I am always excited to collaborate on interesting projects, contribute to open-source initiatives, and share my knowledge with fellow developers. Feel free to reach out to me via email or connect with me.</p>
+</br>
+<a href="https://www.linkedin.com/in/mrityunjaynpandey/">
   <img align="left" alt="Mrityunjay's LinkedIN" width="35" src="https://user-images.githubusercontent.com/63851158/214014425-6161b57b-39a6-4711-859f-f90f7d439842.png" />
-</a>.</p>
+</a>
 </body>
 </html>
 
