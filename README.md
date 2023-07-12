@@ -15,7 +15,7 @@ While pursuing my degree, I have been able to successfully combine my studies wi
 ### Languages and Tools:
 <div style="display: inline">
 <img height="35" src="https://w7.pngwing.com/pngs/544/61/png-transparent-aws-amazon-web-services-brands-and-logos-icon.png">
-<img height="35" src="https://w7.pngwing.com/pngs/47/318/png-transparent-graphql-playground-macos-bigsur-icon.png">
+<img height="35" src="https://img.icons8.com/?size=512&id=zdI5E8moxhs-&format=png">
 <img height="35" src="https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text.png">
 <img height="35" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business.png">
 <img height="35" src="https://user-images.githubusercontent.com/63851158/214012975-c44b0ed8-9d98-459c-a9e7-0a3ca8fc96f2.png">
