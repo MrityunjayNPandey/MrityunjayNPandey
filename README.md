@@ -14,12 +14,24 @@ While pursuing my degree, I have been able to successfully combine my studies wi
 
 ### Languages and Tools:
 <div style="display: inline">
-<img height="35" src="https://img.icons8.com/?size=512&id=zdI5E8moxhs-&format=png">
-<img height="35" src="https://img.icons8.com/?size=1x&id=uJM6fQYqDaZK&format=png">
-<img height="35" src="https://img.icons8.com/?size=512&id=nn5BRPhPpKAT&format=png">
-<img height="35" src="https://img.icons8.com/?size=512&id=TpULddJc4gTh&format=png">
-<img height="35" src="https://img.icons8.com/?size=512&id=54087&format=png">
-<img height="35" src="https://img.icons8.com/?size=512&id=asWSSTBrDlTW&format=png">
+<a href="https://graphql.org/">
+  <img height="35" src="https://img.icons8.com/?size=512&id=zdI5E8moxhs-&format=png">
+</a>  
+<a href="https://www.typescriptlang.org/">
+  <img height="35" src="https://img.icons8.com/?size=1x&id=uJM6fQYqDaZK&format=png">
+</a>  
+<a href="https://www.mongodb.com/">  
+  <img height="35" src="https://img.icons8.com/?size=512&id=nn5BRPhPpKAT&format=png">
+</a>    
+<a href="https://codeforces.com/submissions/_joKer_0">
+  <img height="35" src="https://img.icons8.com/?size=512&id=TpULddJc4gTh&format=png">
+</a>  
+<a href="https://nodejs.org/en/about">
+  <img height="35" src="https://img.icons8.com/?size=512&id=54087&format=png">
+</a>  
+<a href="https://react.dev/">
+  <img height="35" src="https://img.icons8.com/?size=512&id=asWSSTBrDlTW&format=png">
+</a>  
 </div>
 <br>
 
