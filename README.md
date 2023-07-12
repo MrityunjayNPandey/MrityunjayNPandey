@@ -14,13 +14,12 @@ While pursuing my degree, I have been able to successfully combine my studies wi
 
 ### Languages and Tools:
 <div style="display: inline">
-<img height="35" src="https://img.icons8.com/?size=512&id=33039&format=png">
 <img height="35" src="https://img.icons8.com/?size=512&id=zdI5E8moxhs-&format=png">
 <img height="35" src="https://img.icons8.com/?size=1x&id=uJM6fQYqDaZK&format=png">
 <img height="35" src="https://img.icons8.com/?size=512&id=nn5BRPhPpKAT&format=png">
 <img height="35" src="https://img.icons8.com/?size=512&id=TpULddJc4gTh&format=png">
 <img height="35" src="https://img.icons8.com/?size=512&id=54087&format=png">
-<img height="35" src="https://img.icons8.com/?size=512&id=Vra58PN2KmI5&format=png">
+<img height="35" src="https://img.icons8.com/?size=512&id=asWSSTBrDlTW&format=png">
 </div>
 <br>
 
