@@ -37,6 +37,3 @@ While pursuing my degree, I have been able to successfully combine my studies wi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrityunjayNPandey&layout=compact&theme=gotham)
 
-<br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrityunjayNPandey&show_icons=true&theme=gotham)
