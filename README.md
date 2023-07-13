@@ -50,5 +50,5 @@ Welcome to my GitHub profile! I'm Mrityunjay, a self-taught software developer w
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrityunjayNPandey&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrityunjayNPandey&layout=compact&theme=transparent)
 
