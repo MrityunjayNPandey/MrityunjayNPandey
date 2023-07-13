@@ -49,7 +49,3 @@ Welcome to my GitHub profile! I'm Mrityunjay, a self-taught software developer w
 </a>  
 </div>
 <br>
-
-<a href="https://github.com/MrityunjayNPandey/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrityunjayNPandey&layout=donut&theme=transparent" />
-</a>
