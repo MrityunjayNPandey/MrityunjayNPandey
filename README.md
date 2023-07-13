@@ -51,4 +51,4 @@ Welcome to my GitHub profile! I'm Mrityunjay, a self-taught software developer w
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrityunjayNPandey&layout=donut&theme=transparent)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrityunjayNPandey)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MrityunjayNPandey)](https://github.com/MrityunjayNPandey/github-readme-stats)
